@@ -1,3 +1,2 @@
 # banner
-
-![Banner]banner.png
+![Banner](./banner.png)
